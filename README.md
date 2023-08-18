@@ -1,3 +1,4 @@
+
 # Privacy
 
 ### Data Usage: Your data is used to personalize your health experience, provide medical recommendations, and improve our services, and also for the authentication and authorization on the platform.
